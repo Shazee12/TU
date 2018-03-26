@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Traffee.iml" filepath="$PROJECT_DIR$/Traffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficUpdate/TrafficUpdate.iml" filepath="$PROJECT_DIR$/TrafficUpdate/TrafficUpdate.iml" />
+    </modules>
+  </component>
+</project>
